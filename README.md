@@ -24,14 +24,14 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/covid-analysis.git
+   git clone https://github.com/gloria-titus/covid-analysis.git
    cd covid-analysis
 
 
 
 2. Open the notebook in Jupyter:
 
-  ```bash
+    ```bash
    jupyter notebook Covid.
 
 
