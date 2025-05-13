@@ -30,7 +30,8 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 
 
 2. Open the notebook in Jupyter:
-    
+    ```bash
+    # Make sure you have Jupyter installed
     jupyter notebook Covid.
 
 
@@ -39,6 +40,7 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 
 
 **💡 Insights & Reflections**
+
 -The virus spread in waves, with major spikes in early 2020 and subsequent years.
 
 -Some countries had earlier peaks while others had prolonged outbreaks.
