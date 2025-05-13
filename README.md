@@ -30,7 +30,7 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 
 
 2. Open the notebook in Jupyter:
-    ```bash
+    
     jupyter notebook Covid.
 
 
