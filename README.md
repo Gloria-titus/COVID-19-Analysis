@@ -27,16 +27,19 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
    git clone https://github.com/your-username/covid-analysis.git
    cd covid-analysis
 
+
+
 2. Open the notebook in Jupyter:
 
   ```bash
    jupyter notebook Covid.
 
+
 3. Run all cells from top to bottom to view outputs and visualizations.
 
 
 
-💡 Insights & Reflections
+**💡 Insights & Reflections**
 -The virus spread in waves, with major spikes in early 2020 and subsequent years.
 
 -Some countries had earlier peaks while others had prolonged outbreaks.
