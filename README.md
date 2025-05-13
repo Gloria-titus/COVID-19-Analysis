@@ -30,9 +30,8 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 
 
 2. Open the notebook in Jupyter:
-
     ```bash
-   jupyter notebook Covid.
+    jupyter notebook Covid.
 
 
 3. Run all cells from top to bottom to view outputs and visualizations.
