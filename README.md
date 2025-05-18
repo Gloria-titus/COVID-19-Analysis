@@ -26,18 +26,16 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
    ```bash
    git clone https://github.com/gloria-titus/covid-analysis.git
    cd covid-analysis
-
-
+   ```
 
 2. Open the notebook in Jupyter:
-    ```bash
-    # Make sure you have Jupyter installed
-    jupyter notebook Covid.
 
+   ```bash
+   # Make sure you have Jupyter installed
+   jupyter notebook Covid.
+   ```
 
 3. Run all cells from top to bottom to view outputs and visualizations.
-
-
 
 **💡 Insights & Reflections**
 
@@ -46,5 +44,3 @@ A Jupyter Notebook project that explores COVID-19 case data using Python. The go
 -Some countries had earlier peaks while others had prolonged outbreaks.
 
 -Data visualization played a key role in understanding trends and anomalies.
-
-
